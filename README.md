@@ -1,1 +1,1 @@
-This is demo project for testing
+This is use for npm testing package
